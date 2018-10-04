@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="db" uuid="ed4f3ed1-db34-4057-ad75-0289e72a2dbd">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" family="SQLITE" exact-version="0.0" />
+      <auth-required>false</auth-required>
+    </data-source>
+  </component>
+</project>
